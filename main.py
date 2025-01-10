@@ -1,4 +1,3 @@
-'''Python Program - QR Code generating by DJ Harshit'''
 
 # Importing the modules
 from tkinter import *
